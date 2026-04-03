@@ -1,0 +1,13 @@
+ Requirements
+
+
+ Python (version 3.8 or above)
+ Streamlit
+ Pandas
+ NumPy
+ Plotly
+ Scikit-learn
+
+
+
+
